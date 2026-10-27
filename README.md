@@ -2,6 +2,8 @@
 
 One hub for your AI assistants, shared memory and projects, running on your own Windows PC.
 
+You're the **Pilot**: the person who controls and configures your Hub. Your assistants are the crew, and you choose their tools, permissions and flight plan.
+
 [Website](https://projectnexum.dev/) · [Download the latest Windows installer](https://github.com/Mackaboi/nexum-releases/releases/latest) · [Release history](https://github.com/Mackaboi/nexum-releases/releases) · [Privacy](https://projectnexum.dev/privacy.html) · [Terms](https://projectnexum.dev/terms.html)
 
 ## What NEXUM does
